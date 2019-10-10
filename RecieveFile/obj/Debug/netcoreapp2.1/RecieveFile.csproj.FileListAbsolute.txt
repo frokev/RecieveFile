@@ -1,0 +1,10 @@
+C:\Learning\Network C#\RecieveFile\RecieveFile\bin\Debug\netcoreapp2.1\RecieveFile.deps.json
+C:\Learning\Network C#\RecieveFile\RecieveFile\bin\Debug\netcoreapp2.1\RecieveFile.runtimeconfig.json
+C:\Learning\Network C#\RecieveFile\RecieveFile\bin\Debug\netcoreapp2.1\RecieveFile.runtimeconfig.dev.json
+C:\Learning\Network C#\RecieveFile\RecieveFile\bin\Debug\netcoreapp2.1\RecieveFile.dll
+C:\Learning\Network C#\RecieveFile\RecieveFile\bin\Debug\netcoreapp2.1\RecieveFile.pdb
+C:\Learning\Network C#\RecieveFile\RecieveFile\obj\Debug\netcoreapp2.1\RecieveFile.csproj.CoreCompileInputs.cache
+C:\Learning\Network C#\RecieveFile\RecieveFile\obj\Debug\netcoreapp2.1\RecieveFile.AssemblyInfoInputs.cache
+C:\Learning\Network C#\RecieveFile\RecieveFile\obj\Debug\netcoreapp2.1\RecieveFile.AssemblyInfo.cs
+C:\Learning\Network C#\RecieveFile\RecieveFile\obj\Debug\netcoreapp2.1\RecieveFile.dll
+C:\Learning\Network C#\RecieveFile\RecieveFile\obj\Debug\netcoreapp2.1\RecieveFile.pdb
